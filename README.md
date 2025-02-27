@@ -17,6 +17,9 @@ IL-2 JoyBackup is a tool designed to help manage control configuration files for
 - **Help Window**: Access instructions and a link to YouTube.
 
 ---
+Download https://github.com/StableAce/IL2JoyBackup/blob/main/IL2JoyBackup.exe
+---
+
 
 ## Installation
 
